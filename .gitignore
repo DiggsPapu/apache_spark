@@ -1,0 +1,11 @@
+*.csv
+*.zip
+*.tar
+*.gz
+*.rar
+*.crc
+*.csv.crc
+*_SUCCESS*
+*.parquet
+*.pdf
+*.dbc
